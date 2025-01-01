@@ -1,1 +1,1 @@
-export const BASE_URL='http://mybackend-opal.vercel.app'
+export const BASE_URL='https://mybackend-opal.vercel.app'
